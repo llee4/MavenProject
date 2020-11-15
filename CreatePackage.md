@@ -8,3 +8,5 @@
 6. In the pom.xml file, make sure to change the number after maven.compiler.source to your current Java version.
 7. Also notice the dependencies section in the pol.xml. This is where you can add dependent packages your project uses, like JUnit or Twitter4J.
 8. To compile your project, open the Maven tab on the rigth side of the IDE. Inside, click the "package" button to create a JAR file.
+
+This is an excellent video that summarizes this process: [https://www.youtube.com/watch?v=bxP9IuJbcDQ&t=970s](https://www.youtube.com/watch?v=bxP9IuJbcDQ&t=970s)
